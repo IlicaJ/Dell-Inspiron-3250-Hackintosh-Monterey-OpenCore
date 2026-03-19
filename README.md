@@ -1,0 +1,2 @@
+# Dell-Inspiron-3250-Hackintosh-Monterey-OpenCore
+EFI CON LOS COMPONENTES DE FABRICA DE UNA DEL INSPIRON 3250
